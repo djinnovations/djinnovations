@@ -1,10 +1,10 @@
 ### Hi there 👋 I'm Dharshan
 ### About me🧑:
 
-- 🔭 I’m currently working on **Du App**
-- 🌱 I’m currently learning Hacking
+- 🔭 I’m currently working on **NeoBoard**
+- 🌱 I’m currently exploring KMP for cross-platform development
 - 💬 Ask me about **Android, Spring Boot**
-- 📫 How to reach me: djlegends33@gmail.com
+- 📫 How to reach me: dharshanj10ec@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Code, Cars, Stocks & Travel
 - 🎢 Profile Visitors Count: 
